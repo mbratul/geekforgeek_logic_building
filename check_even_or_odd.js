@@ -5,6 +5,7 @@
 */
 // A simple Javascript program to
 // check for even or odd
+
 function isEven(n) {
   return n % 2 == 0;
 }
