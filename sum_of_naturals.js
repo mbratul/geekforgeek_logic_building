@@ -3,6 +3,12 @@
 
     Problem : Given a number n, find the sum of the first n natural numbers. 
     https://www.geeksforgeeks.org/program-find-sum-first-n-natural-numbers/
+
+    Examples : 
+    
+    Input  : 5
+    Output : 15 
+    Explanation : Note that 1 + 2 + 3 + 4 + 5 = 15
  */
 
 // Javascript program to find sum of first n natural numbers.
