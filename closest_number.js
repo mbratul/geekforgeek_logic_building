@@ -37,3 +37,8 @@ function closestNumber(n, m) {
 let n = 13,
   m = 4;
 console.log(closestNumber(n, m));
+
+/* 
+    Solution: [Naive Approach] Iterative Checking
+    The basic idea is to start checking from n – m to n + m one by one and tack the closest number.
+ */
