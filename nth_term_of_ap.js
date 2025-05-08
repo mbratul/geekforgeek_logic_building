@@ -25,6 +25,13 @@ let a1 = 2,
 let n = 4;
 console.log(nthTermOfAP(a1, a2, n));
 
+/* 
+    Solution: [Naive Approach] - Using for Loop
+    In an Arithmetic Series, the difference between all pair of consecutive terms is same, for example, 2, 5, 8, 11, 14,,,,, The common difference is 3.
+
+    Find the common difference of the series, common difference d = a2 - a1
+    Run a loop to iterate over each term in the series from a1, keep adding common difference d until the n-th term is reached. 
+*/
 /* const Person = () => {
   this.test = "hello";
 };
