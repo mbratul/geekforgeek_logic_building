@@ -32,10 +32,3 @@ console.log(nthTermOfAP(a1, a2, n));
     Find the common difference of the series, common difference d = a2 - a1
     Run a loop to iterate over each term in the series from a1, keep adding common difference d until the n-th term is reached. 
 */
-/* const Person = () => {
-  this.test = "hello";
-};
-
-const result = new Person();
-
-console.log(result.test); */
