@@ -6,6 +6,7 @@
    * Input : n = 2
    * Output: 5
    * Explanation: 1^2+2^2 = 5
+   * url : https://www.geeksforgeeks.org/dsa/sum-of-squares-of-first-n-natural-numbers/
    */
 
   function summation(n) {
