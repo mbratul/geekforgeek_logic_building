@@ -6,4 +6,4 @@ function multiply(n, m) {
   }
   return result;
 }
-console.log(multiply(15, 20));
+console.log(multiply(9, 10));
